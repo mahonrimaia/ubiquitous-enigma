@@ -1,0 +1,5 @@
+Access this path:
+C:\ProgramData\Microsoft\Windows Defender\Scans\History\Service
+
+Delete everything then it's done!
+Your Protection History log is clean!
